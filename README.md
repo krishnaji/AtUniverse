@@ -1,5 +1,7 @@
 # :rocket: Create your first pipeline
 
+We plan here!: https://dev.azure.com/alexnichols/AtUniverse/_boards/board/t/AtUniverse%20Team/Stories
+
 In a few simple steps, set up continuous integration for a GitHub repository using Azure Pipelines.
 
 :clock3: Duration: 5-10 minutes
