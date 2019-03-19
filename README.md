@@ -65,7 +65,7 @@ You've set up your first pipeline using Azure Pipelines. Consider trying these f
 ### Create another pipeline
 
 Create additional pipelines by clicking **+ New build pipeline** from within Azure Pipelines.
-
+:)
 ### Deploy
 
 Ask an Azure Pipelines representative how you can deploy your application to any platform or cloud.
